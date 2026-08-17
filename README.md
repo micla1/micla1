@@ -4,10 +4,7 @@ Quantitative macro research intern, multi-asset portfolio manager assistant at A
 
 ## What's in this profile
 
-Four independent projects, each following the same discipline: **replicate a published model or
-methodology from scratch and public data → validate it numerically against an official benchmark
-or a rigorous protocol → build a trading signal or extension on top → report what does and
-doesn't work, honestly.** No project claims a result it can't defend.
+Four independent projects, each following the same discipline: replicate a published model or methodology from scratch using public data, validate it numerically against an official benchmark or a rigorous protocol, build a trading signal or extension on top of it, and report what does and doesn't work.
 
 ---
 
