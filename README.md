@@ -1,8 +1,6 @@
 # Clara Mihailescu
 
-Quantitative research, ENSAE Paris — quantitative macro research intern (multi-asset), currently
-on a gap year. Interested in quantitative research / trading roles in rates, FX, and systematic
-strategies.
+Quantitative macro research intern, multi-asset — portfolio manager assistant, ENSAE Paris. Looking for a quantitative research internship starting January 2027, in rates, FX, or equities.
 
 ## What's in this profile
 
