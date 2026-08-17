@@ -1,6 +1,6 @@
 # Clara Mihailescu
 
-Quantitative macro research intern, multi-asset — portfolio manager assistant at Amundi Asset Management Paris. Looking for a quantitative research internship starting January 2027, in rates, FX, or equities.
+Quantitative macro research intern, multi-asset portfolio manager assistant at Amundi Asset Management Paris. Looking for a quantitative research internship starting January 2027, in rates, FX, or equities.
 
 ## What's in this profile
 
